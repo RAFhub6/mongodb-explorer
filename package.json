@@ -8,5 +8,8 @@
     "deploy": "vercel deploy --prod"
   },
   "author": "RAFhub6",
-  "license": "SEE LICENSE IN LICENSE"
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "vercel": "^39.0.4"
+  }
 }
