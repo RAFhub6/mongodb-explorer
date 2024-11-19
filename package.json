@@ -1,0 +1,12 @@
+{
+  "name": "mongodb-explorer",
+  "version": "1.0.0",
+  "description": "Browse MongoDB databases online.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "author": "RAFhub6",
+  "license": "SEE LICENSE IN LICENSE"
+}
